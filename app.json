@@ -1,0 +1,12 @@
+{
+  "name": "LiveTonight_Test",
+  "displayName": "LiveTonight_Test",
+  "expo": {
+    "name": "LiveTonight_Test",
+    "slug": "LiveTonight_Test",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
