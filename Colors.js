@@ -1,0 +1,5 @@
+export const LTgreen = "#3CE295"
+export const LTgrey = "#E6E6E6"
+export const LTdarkblue = "#2C16B2"
+export const LTblue = "#4D58C4"
+export const LTred = "#FF404C"
